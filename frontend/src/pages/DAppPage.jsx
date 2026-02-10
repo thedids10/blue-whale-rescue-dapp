@@ -8,8 +8,8 @@ const CONFIG = {
   // For localhost Hardhat network
   requiredNetworkName: 'localhost',
   requiredChainId: '0x7a69', // 31337 in hex
-  charityCrowdfundingAddress: '0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512',
-  charityTokenAddress: '0x5FbDB2315678afecb367f032d93F642f64180aa3',
+  charityCrowdfundingAddress: '0x6F1fe2a54773c1557C45cb50Df911a7E07B97E53',
+  charityTokenAddress: '0xa423D028321646282B0A5BD96D9763F1b2C3A46f',
 }
 
 // CharityToken ABI (only needed functions)
